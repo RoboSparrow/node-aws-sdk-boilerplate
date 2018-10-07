@@ -1,5 +1,8 @@
 .env
 
-.private/
+.private/*
+!.private/template.aws-profile.json
+!.private/template.aws.json
+
 node_modules/
 _dev/
