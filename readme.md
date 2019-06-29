@@ -14,7 +14,10 @@ Copy one of authentication authentication templates without the `template.` pref
 ## Hard update packages
 
 ```bash
-rm -f package-lock.json && npm --save-dev install nodemon && npx install-peerdeps --dev eslint-config-airbnb && npm install --save aws-sdk
+rm -f package-lock.json \
+&& npm --save-dev install nodemon \
+&& npx install-peerdeps --dev eslint-config-airbnb \
+&& npm install --save aws-sdk
 ```
 
 TODO:
