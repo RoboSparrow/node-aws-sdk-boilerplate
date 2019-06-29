@@ -1,6 +1,6 @@
 {
   "name": "node-aws-sdk-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimalistic node & aws-sdk boilerplate with eslint and nodemon",
   "scripts": {
     "dev": "./node_modules/.bin/nodemon"
