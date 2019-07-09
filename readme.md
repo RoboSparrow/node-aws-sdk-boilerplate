@@ -4,7 +4,7 @@ Minimalistic node & aws-sdk boilerplate with eslint airbnb and nodemon watcher.
 
 ## Configuring AWS SDK
 
-Go to `.private` folder:
+See `.private` folder:
 
 Copy one of authentication authentication templates without the `template.` prefix and fill in creds or your profile of yor local `aws-cli` install
 
